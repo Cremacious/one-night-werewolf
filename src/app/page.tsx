@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-black via-gray-900 to-orange-900 text-orange-100 overflow-hidden">
+    <div className="min-h-screen  text-orange-100 overflow-hidden">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-10">
         <div className="absolute inset-0 bg-gradient-to-br from-orange-600/20 to-transparent"></div>
